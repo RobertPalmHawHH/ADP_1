@@ -17,6 +17,4 @@ public interface List_Interface {
     
     public boolean concat(List<Element> list2);
     
-    
-    
 }
